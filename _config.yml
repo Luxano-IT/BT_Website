@@ -1,6 +1,6 @@
-baseurl: "/jekyll-serif-theme/"
+baseurl: ""
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'B+T Oehninger'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
