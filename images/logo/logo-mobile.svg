@@ -1,27 +1,44 @@
 <svg width="320" height="320" viewBox="0 0 320 320" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
-      .text { font-family: Helvetica, Arial, sans-serif; fill: #111; letter-spacing: 1px; }
-      .subtle { fill: #666; font-family: Helvetica, Arial, sans-serif; }
-      .line { stroke: #111; stroke-width: 2; }
+      .bt {
+        font-family: Helvetica, Arial, sans-serif;
+        fill: #111;
+        font-size: 44px;
+        font-weight: 700;
+        letter-spacing: 1px;
+      }
+
+      .name {
+        font-family: Helvetica, Arial, sans-serif;
+        fill: #111;
+        font-size: 22px;
+        font-weight: 500;
+        letter-spacing: 1px;
+      }
+
+      .line {
+        stroke: #111;
+        stroke-width: 2;
+      }
     </style>
   </defs>
 
   <!-- Frame -->
   <rect x="40" y="40" width="240" height="240" fill="none" class="line"></rect>
 
-  <!-- Bars (finance abstraction) -->
-  <line x1="110" y1="210" x2="110" y2="140" class="line"></line>
-  <line x1="160" y1="210" x2="160" y2="110" class="line"></line>
-  <line x1="210" y1="210" x2="210" y2="80" class="line"></line>
+  <!-- Swiss bar system -->
+  <line x1="110" y1="220" x2="110" y2="150" class="line"></line>
+  <line x1="160" y1="220" x2="160" y2="120" class="line"></line>
+  <line x1="210" y1="220" x2="210" y2="90" class="line"></line>
 
-  <!-- B + T integrated -->
-  <text x="95" y="85" font-size="18" class="subtle">B</text>
-  <text x="125" y="88" font-size="22" class="text">+</text>
-  <text x="155" y="85" font-size="18" class="subtle">T</text>
+  <!-- B+T (ONLY ONCE, primary identity) -->
+  <text x="160" y="105" text-anchor="middle" class="bt">
+    B+T
+  </text>
 
-  <!-- Name -->
-  <text x="160" y="270" text-anchor="middle" font-size="18" class="text">
+  <!-- Oehninger (secondary, elevated but not competing) -->
+  <text x="160" y="250" text-anchor="middle" class="name">
     Oehninger
   </text>
 </svg>
