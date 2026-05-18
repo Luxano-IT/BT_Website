@@ -1,9 +1,9 @@
 ---
-title: "Sage Kirk"
+title: "Fabio Oehninger"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/sage-kirk-485982-unsplash.jpg"
-jobtitle: "Accounting Partner"
-linkedinurl: "https://www.linkedin.com/example2"
+image: "images/team/ProfilBild_FOehninger.jpg"
+jobtitle: "System Administrator"
+linkedinurl: "https://www.linkedin.com/in/fabio-oehninger-1a440514a/"
 promoted: true
 weight: 2
 ---
