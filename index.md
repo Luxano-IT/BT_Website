@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: B+T Oehninger
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Buchaltung und Treuhand Oehninger ist für all ihre Anliegen im Bereich Buchhaltung, Personalwesen, Steuererklärung usw. da.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# B+T Oehninger
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Buchaltung und Treuhand Oehninger ist für all ihre Anliegen im Bereich Buchhaltung, Personalwesen, Steuererklärung usw. da.
