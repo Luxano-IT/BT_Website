@@ -10,4 +10,4 @@ show_call_box: true
 
 # B+T Oehninger
 
-Buchaltung und Treuhand Oehninger ist für all ihre Anliegen im Bereich Buchhaltung, Personalwesen, Steuererklärung usw. da.
+Buchhaltung und Treuhand Oehninger ist für all ihre Anliegen im Bereich Buchhaltung, Personalwesen, Steuererklärung usw. da.
